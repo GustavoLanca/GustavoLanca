@@ -1,16 +1,29 @@
-## Hi there 👋
+# Olá, eu sou o Gustavo!
 
-<!--
-**GustavoLanca/GustavoLanca** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Estudante de Análise e Desenvolvimento de Sistemas | Desenvolvedor Backend
 
-Here are some ideas to get you started:
+Sou um estudante apaixonado por tecnologia e resolução de problemas, atualmente cursando Análise e Desenvolvimento de Sistemas na FATEC Zona Leste. Tenho um forte foco no desenvolvimento backend e arquitetura de software.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Estou em busca de uma oportunidade de estágio em desenvolvimento de software, onde eu possa aplicar meus conhecimentos em programação e evoluir profissionalmente.
+
+## 🚀 O que estou fazendo agora
+
+* 🎓 Graduando em Análise e Desenvolvimento de Sistemas na FATEC Zona Leste (Previsão de conclusão: 12/2026).
+* ☕ Desenvolvendo o Project Muttley, uma aplicação backend estruturada com Java e Spring Boot e integração com o LinkedIn.
+* 🌐 Criando uma extensão de navegador focada em auxiliar desenvolvedores a programarem de acordo com as diretrizes de acessibilidade WCAG.
+* 🔒 Aprimorando meus conhecimentos de rede com o curso Cybersecurity Essentials da Cisco Networking Academy.
+
+## 🛠️ Tecnologias e Ferramentas
+
+* Linguagens: Java, Python, JavaScript, PHP, VBA.
+* Frameworks & Ecossistemas: Spring Boot, Node.js, Hibernate (JPA), Flask, Django, JUnit.
+* Banco de Dados: MySQL (Domínio em modelagem relacional, Stored Procedures e Triggers).
+* Front-end Básico: HTML, CSS.
+* Metodologias Ágeis: Scrum, Kanban, Lean.
+* Ferramentas: Git, GitHub, VSCode, Android Studio, Power BI.
+
+## 📫 Como me encontrar
+
+* Email: gustavo.fm.lanca@gmail.com 
+* LinkedIn: [linkedin.com/in/gustavolanca](https://linkedin.com/in/gustavolanca) 
+---
