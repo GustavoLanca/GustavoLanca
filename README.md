@@ -24,7 +24,7 @@ Estou em busca de uma oportunidade de estágio em desenvolvimento de software, o
 
 ## 📫 Contatos
 
-* Whatasapp: (11) 9 1104-3955
+* Whatasapp: [(11) 9 1104-3955](wa.me/11911043955)
 * Email: gustavo.fm.lanca@gmail.com 
 * LinkedIn: [linkedin.com/in/gustavolanca](https://linkedin.com/in/gustavolanca) 
 ---
