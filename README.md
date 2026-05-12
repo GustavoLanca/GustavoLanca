@@ -11,7 +11,7 @@ Estou em busca de uma oportunidade de estágio em desenvolvimento de software, o
 * 🎓 Graduando em Análise e Desenvolvimento de Sistemas na FATEC Zona Leste (Previsão de conclusão: 12/2026).
 * ☕ Desenvolvendo o Project Muttley, uma aplicação backend estruturada com Java e Spring Boot e integração com o LinkedIn.
 * 🌐 Criando uma extensão de navegador focada em auxiliar desenvolvedores a programarem de acordo com as diretrizes de acessibilidade WCAG.
-* 🔒 Aprimorando meus conhecimentos de rede com o curso Cybersecurity Essentials da Cisco Networking Academy.
+* 🔒 Aprimorando meus conhecimentos de rede e cybersegurança com os cursos da Cisco Networking Academy.
 
 ## 🛠️ Tecnologias e Ferramentas
 
